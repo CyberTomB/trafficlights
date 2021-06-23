@@ -20,15 +20,15 @@
   margin: 1px;
 }
 
-.light.red{
+.red{
   background-color: red;
 }
 
-.light.green{
+.green{
   background-color: rgb(15, 194, 15);
   filter: drop-shadow(1px 0px 15px rgb(15, 194, 15));
 }
 
-.light.yellow{
+.yellow{
   background-color: yellow;
 }
